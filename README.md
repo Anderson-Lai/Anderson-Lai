@@ -1,5 +1,5 @@
 # 💫 About Me: <br>
-### I'm a high school student interested in computer science and computer engineering. Enjoys web development and systems-level programming.
+### I'm a high school student interested in computer science and computer engineering; focuses on web development and systems-level programming.
 🔭 I’m currently working on<br>CourseFeedback, a way for students to leave comments on past courses they've taken<br>⚡ Future plans<br>A CLI tool using C++<br>🌱 I’m currently learning<br>Rust, x86 Assembly<br>💬 Ask me about<br>anything!<br>
 
 
