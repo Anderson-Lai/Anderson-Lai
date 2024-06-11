@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>CourseFeedback, a way for students to leave comments on past courses they've taken<br>I'm also starting a new project in C++ to develop CLI tools<br>🌱 I’m currently learning<br>Rust, C++, React, Tailwind CSS<br>💬 Ask me about<br>anything!<br>
+🔭 I’m currently working on<br>CourseFeedback, a way for students to leave comments on past courses they've taken<br>⚡ Future plans<br>A CLI tool using C++<br>🌱 I’m currently learning<br>Rust, C++, React, Tailwind CSS<br>💬 Ask me about<br>anything!<br>
 
 
 # 💻 Tech Stack:
@@ -9,5 +9,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anderson-Lai&theme=dark&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Lai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Anderson-Lai&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- ---
+[![](https://visitcount.itsvg.in/api?id=Anderson-Lai&icon=0&color=0)](https://visitcount.itsvg.in) -->
