@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>CourseFeedback, a way for students to leave comments on past courses they've taken<br>🌱 I’m currently learning<br>Rust, React, C++<br>💬 Ask me about<br>anything!<br>
+🔭 I’m currently working on<br>CourseFeedback, a way for students to leave comments on past courses they've taken<br>I'm also starting a new project in C++ to develop CLI tools<br>🌱 I’m currently learning<br>Rust, C++, React, Tailwind CSS<br>💬 Ask me about<br>anything!<br>
 
 
 # 💻 Tech Stack:
