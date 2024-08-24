@@ -1,6 +1,6 @@
 # 💫 About Me: <br>
-### I'm a high school student interested in computer science and computer engineering; focuses on web development and systems-level programming.
-🔭 I’m currently working on<br>CourseFeedback, a way for students to leave comments on past courses they've taken<br>⚡ Future plans<br>A CLI tool using C++<br>🌱 I’m currently learning<br>Rust, x86 Assembly<br>💬 Ask me about<br>anything!<br>
+### I'm a web and systems programmer from Canada. I am both an International Baccalaureate and an Aerospace and Aviation SHSM student at St. Robert Catholic High School.
+🔭 I’m currently working on<br>Note Lang, my own statically-typed, compiled programming language<br>⚡ Future plans<br>A UNIX shell clone in Rust<br>🌱 I’m currently learning<br>LLVM and Rust<br>💬 Ask me about<br>anything!<br>
 
 
 # 💻 Tech Stack:
