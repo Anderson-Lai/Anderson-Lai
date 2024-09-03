@@ -1,6 +1,6 @@
 # 💫 About Me: <br>
 ### I'm a web and systems programmer from Canada. I am both an International Baccalaureate and an Aerospace and Aviation SHSM student at St. Robert Catholic High School.
-🔭 I’m currently working on<br>Flip Flop, a desktop application for Hypixel Skyblock<br>⚡ Future plans<br>A programming language using LLVM<br>🌱 I’m currently learning<br>LLVM and Rust<br>💬 Ask me about anything!
+🔭 I’m currently working on:<br>Flip Flop, a desktop application for Hypixel Skyblock<br>⚡ Future plans:<br>A programming language using LLVM<br>🌱 I’m currently learning:<br>LLVM and Rust<br>💬 Ask me about anything!
 
 
 # 💻 Tech Stack:
