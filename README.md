@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anderson-lai&layout=donut&langs_count=4&theme=ambient_gradient)]
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anderson-lai&layout=donut&langs_count=4&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=anderson-lai&layout=donut&langs_count=4&theme=ambient_gradient)
 
 <!-- ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Lai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
